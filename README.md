@@ -1,6 +1,6 @@
 # Frontend Mentor - Launch countdown timer
 
-![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
+![Live link for the Launch countdown timer coding challenge](https://ajumobiisaac96.github.io/launch-countdown-timer/)
 
 ## Welcome! 👋
 
